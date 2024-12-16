@@ -1,0 +1,14 @@
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\TabelaQuemPodeFazer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\TabelaQuemPodeFazer.AssemblyInfoInputs.cache
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\TabelaQuemPodeFazer.AssemblyInfo.cs
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\TabelaQuemPodeFazer.csproj.CoreCompileInputs.cache
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\bin\Debug\net8.0\TabelaQuemPodeFazer.exe
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\bin\Debug\net8.0\TabelaQuemPodeFazer.deps.json
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\bin\Debug\net8.0\TabelaQuemPodeFazer.runtimeconfig.json
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\bin\Debug\net8.0\TabelaQuemPodeFazer.dll
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\bin\Debug\net8.0\TabelaQuemPodeFazer.pdb
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\TabelaQuemPodeFazer.dll
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\refint\TabelaQuemPodeFazer.dll
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\TabelaQuemPodeFazer.pdb
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\TabelaQuemPodeFazer.genruntimeconfig.cache
+C:\Users\kayque.carneiro\Downloads\Curso\C#\TabelaQuemPodeFazer\TabelaQuemPodeFazer\obj\Debug\net8.0\ref\TabelaQuemPodeFazer.dll
